@@ -18,7 +18,7 @@ safety risk matrix.
   macro F1; frequent categories perform significantly better
 
 ## Deployed App
-🤗 [Live demo on Hugging Face Spaces](https://huggingface.co/spaces/MatheusHagemann/aviation-risk-estimator)
+🤗 [Live demo on Hugging Face Spaces](https://huggingface.co/spaces/MatheusHagemann/aviation-incident-risk-estimation)
 
 ## Stack
 Python · DistilBERT · HuggingFace Transformers · scikit-learn · pandas · Gradio
